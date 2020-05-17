@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleApp</string>
+    <string name="getUser">Get Users</string>
+</resources>
